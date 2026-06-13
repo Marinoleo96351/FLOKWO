@@ -1,2 +1,2 @@
 # FLOKWO
-GERENCIAMENTO DE TAREFAS
+Gerenciador de tarefas
